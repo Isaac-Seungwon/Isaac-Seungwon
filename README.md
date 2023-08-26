@@ -1,5 +1,5 @@
 I'm a passionate developer from Korea 🇰🇷
-<img width="100%" src=""/>
+<img width="100%" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxKFEw%2FbtssbjsI53k%2FI6SrOBg5cLqGk0We2ZRC2K%2Fimg.jpg"/>
 
 ## About me
 - Korea Digital Media High School Department of Digital Contents 14th
