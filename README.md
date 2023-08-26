@@ -1,5 +1,4 @@
 ### Student Developer
-<a href="https://isaac-christian.tistory.com/" target="_blank"><img src="[https://img.shields.io/badge/FF8800](https://simpleicons.org/icons/microdotblog.svg)?style=flat-square&logo=microdotblog&logoColor=000000"/></a>
 
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
