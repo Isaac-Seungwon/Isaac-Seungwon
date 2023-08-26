@@ -1,7 +1,3 @@
-<div align=center>
-<img width="30%" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxKFEw%2FbtssbjsI53k%2FI6SrOBg5cLqGk0We2ZRC2K%2Fimg.jpg">
-</div>
-
 I'm a passionate developer from Korea 🇰🇷
 
 ## About me
@@ -34,6 +30,10 @@ I'm a passionate developer from Korea 🇰🇷
 
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align=center>
+<img width="30%" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxKFEw%2FbtssbjsI53k%2FI6SrOBg5cLqGk0We2ZRC2K%2Fimg.jpg">
+</div>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
