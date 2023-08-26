@@ -1,5 +1,7 @@
 ### Student Developer
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=radical)
+
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
