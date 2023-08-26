@@ -1,4 +1,5 @@
 I'm a passionate developer from Korea 🇰🇷
+<img width="100%" src=""/>
 
 ## About me
 - Korea Digital Media High School Department of Digital Contents 14th
@@ -7,28 +8,31 @@ I'm a passionate developer from Korea 🇰🇷
 ## Stacks
 <div align=center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white"/>
 <br><br>
  
 |![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=dracula) | <a href="https://github.com/Isaac-Seungwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 </div>
+
+## License
+- MetaCode Machine Learning BEGINNER
+- MetaCode PYTHON BEGINNER
 
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
