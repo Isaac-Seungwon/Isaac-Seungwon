@@ -1,4 +1,4 @@
-I'm a passionate developer from South-Korea 🇰🇷
+I'm a passionate developer from Korea 🇰🇷
 
 
 **About me**
