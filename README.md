@@ -29,7 +29,7 @@ I'm a passionate developer from Korea 🇰🇷
 
 ## License
 - MetaCode Machine Learning BEGINNER
-- MetaCode PYTHON BEGINNER
+- MetaCode Python BEGINNER
 
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
