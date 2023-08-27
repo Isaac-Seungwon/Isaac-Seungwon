@@ -2,12 +2,12 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Seungwon%20Github!&fontSize=50" />	
 </div>
 
-## About me
+## 🤖 About me
 I'm a passionate developer from Korea 🇰🇷
 - Korea Digital Media High School Department of Digital Contents 14th
 - Gangseo University Department of Bigdata Management
 
-## 📚Tech Stack 
+## 📚 Tech Stack 
 <div align=center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -32,7 +32,7 @@ I'm a passionate developer from Korea 🇰🇷
 | ------------- | ------------- |
 </div>
 
-## License
+## 📜 License
 - MetaCode Machine Learning BEGINNER
 - MetaCode Python BEGINNER
 
