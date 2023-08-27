@@ -1,42 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
-
 <div align=center>
- 
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
-
-<br>
-<div align=center>
-	<p>🛠 Tools 🛠</p>
- 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-</div>
-
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white"/>
-<br><br>
- 
-|![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=dracula) | <a href="https://github.com/Isaac-Seungwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Seungwon%20Github!&fontSize=50" />	
 </div>
 
 ## About me
 I'm a passionate developer from Korea 🇰🇷
 - Korea Digital Media High School Department of Digital Contents 14th
 - Gangseo University Department of Bigdata Management
+
+## 📚Tech Stack 
+<div align=center>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white"/>
+</div>
+<br>
+<div align=center>
+	 
+|![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=dracula) | <a href="https://github.com/Isaac-Seungwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+</div>
 
 ## License
 - MetaCode Machine Learning BEGINNER
