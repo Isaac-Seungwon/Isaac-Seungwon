@@ -41,6 +41,8 @@
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaac_christian)](https://solved.ac/isaac_christian)
+
 ## 🤖 About me
 I'm a passionate developer from Korea 🇰🇷
 - Korea Digital Media High School Department of Digital Contents 14th
