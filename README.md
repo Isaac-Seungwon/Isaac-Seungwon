@@ -18,12 +18,16 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>
-</div>
 <br>
+</div>
+
 <div align=center>
-  
+
 |![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=dracula) | <a href="https://github.com/Isaac-Seungwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaac_christian)](https://solved.ac/isaac_christian/)
+
 </div>
 
 ## 📜 License
