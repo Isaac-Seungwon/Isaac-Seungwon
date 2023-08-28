@@ -2,11 +2,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Seungwon's%20Github!&fontSize=50" />	
 </div>
 
-## 🤖 About me
-I'm a passionate developer from Korea 🇰🇷
-- Korea Digital Media High School Department of Digital Contents 14th
-- Gangseo University Department of Bigdata Management
-
 ## 📚 Tech Stack 
 <div align=center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -37,6 +32,11 @@ I'm a passionate developer from Korea 🇰🇷
 
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 🤖 About me
+I'm a passionate developer from Korea 🇰🇷
+- Korea Digital Media High School Department of Digital Contents 14th
+- Gangseo University Department of Bigdata Management
 
 <div align=center>
 <img width="30%" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxKFEw%2FbtssbjsI53k%2FI6SrOBg5cLqGk0We2ZRC2K%2Fimg.jpg">
