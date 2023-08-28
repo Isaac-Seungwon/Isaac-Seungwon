@@ -33,7 +33,10 @@
 ## 📜 License
 - MetaCode Machine Learning BEGINNER
 - MetaCode Python BEGINNER
-	
+
+## :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isaac-christian.tistory.com/)](https://isaac-christian.tistory.com/)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsaac-Seungwon&count_bg=%23162457&title_bg=%23131517&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--
@@ -44,17 +47,12 @@ I'm a passionate developer from Korea 🇰🇷
 - Korea Digital Media High School Department of Digital Contents 14th
 - Gangseo University Department of Bigdata Management
 
-<div align=center>
-<img width="30%" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxKFEw%2FbtssbjsI53k%2FI6SrOBg5cLqGk0We2ZRC2K%2Fimg.jpg">
-</div>
-
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
-
 
 Here are some ideas to get you started:
 
