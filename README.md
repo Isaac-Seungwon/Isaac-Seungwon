@@ -1,9 +1,7 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=55&section=header&text=Seungwon's%20Github!&fontSize=30" />	
-</div>
+I'm a passionate developer from Korea 🇰🇷
 
-## 📚 Tech Stack 
-<div align=center>
+### Languages and Tools:
+<div align>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
@@ -21,18 +19,21 @@
 </div>
 <br>
 
-<div align=center>
+<div align>
 
 |![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=dracula) | <a href="https://github.com/Isaac-Seungwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaac_christian)](https://solved.ac/isaac_christian/) |
+| ------------- |
+
 </div>
 
-## 📜 License
+### License:
 - MetaCode Machine Learning BEGINNER
 - MetaCode Python BEGINNER
 
-## :mailbox_with_mail: Contacts
+### Contacts:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isaac-christian.tistory.com/)](https://isaac-christian.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhzk33@gmail.com)](mailto:zhzk33@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zhzkdkrak@naver.com)](mailto:zhzkdkrak@naver.com)
@@ -42,10 +43,12 @@
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaac_christian)](https://solved.ac/isaac_christian/)
+### 🤖 About me:
 
-## 🤖 About me
-I'm a passionate developer from Korea 🇰🇷
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=55&section=header&text=Seungwon's%20Github!&fontSize=30" />	
+</div>
+
 - Korea Digital Media High School Department of Digital Contents 14th
 - Gangseo University Department of Bigdata Management
 
