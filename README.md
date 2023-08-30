@@ -24,9 +24,6 @@ I'm a passionate developer from Korea 🇰🇷
 |![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=dracula) | <a href="https://github.com/Isaac-Seungwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaac_christian)](https://solved.ac/isaac_christian/) |
-| ------------- |
-
 </div>
 
 ### License:
@@ -44,6 +41,9 @@ I'm a passionate developer from Korea 🇰🇷
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🤖 About me:
+
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaac_christian)](https://solved.ac/isaac_christian/) |
+| ------------- |
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=55&section=header&text=Seungwon's%20Github!&fontSize=30" />	
