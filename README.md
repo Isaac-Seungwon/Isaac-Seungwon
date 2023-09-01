@@ -20,7 +20,9 @@ I'm a passionate developer from Korea 🇰🇷
 <br>
 
 <div align>
+	
 [![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&theme=dracula&show_icons=true)]()
+
 </div>
 
 ### License:
