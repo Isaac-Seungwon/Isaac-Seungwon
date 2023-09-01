@@ -21,8 +21,6 @@ I'm a passionate developer from Korea 🇰🇷
 
 <div align>
 
-|![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=dracula) | <a href="https://github.com/Isaac-Seungwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 </div>
 
