@@ -1,7 +1,7 @@
 I'm a passionate developer from Korea 🇰🇷
 
 ### Languages and Tools:
-<div align>
+<div align = center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
@@ -19,7 +19,7 @@ I'm a passionate developer from Korea 🇰🇷
 </div>
 <br>
 
-<div align>
+<div align = center>
 	
 [![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&theme=dracula&show_icons=true)]() ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=dracula&layout=compact)
 
