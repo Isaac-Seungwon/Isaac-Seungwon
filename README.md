@@ -25,8 +25,6 @@ I'm a passionate developer from Korea 🇰🇷
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Isaac-Seungwon&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### License:
 - MetaCode Machine Learning BEGINNER
 - MetaCode Python BEGINNER
