@@ -1,6 +1,6 @@
 I'm a passionate developer from Korea 🇰🇷
 
-### Languages and Tools:
+## Languages and Tools
 <div align = center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -21,15 +21,15 @@ I'm a passionate developer from Korea 🇰🇷
 
 <div align = center>
 	
-[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&theme=dracula&show_icons=true)]() ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=dracula&layout=compact)
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&theme=swift&show_icons=true)]() ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=swift&layout=compact)
 
 </div>
 
-### License:
+## License:
 - MetaCode Machine Learning BEGINNER
 - MetaCode Python BEGINNER
 
-### Contacts:
+## Contacts:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isaac-christian.tistory.com/)](https://isaac-christian.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhzk33@gmail.com)](mailto:zhzk33@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zhzkdkrak@naver.com)](mailto:zhzkdkrak@naver.com)
