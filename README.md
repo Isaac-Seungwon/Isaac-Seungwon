@@ -1,6 +1,6 @@
 # 안녕하세요! 👋
 
-I'm Isaac, a passionate developer from Korea 🇰🇷. Currently navigating the exciting world of Big Data Management at Gangseo University.
+I'm Isaac, a passionate developer from Korea 🇰🇷.
 
 ## Languages and Tools
 <div align="center">
