@@ -16,7 +16,6 @@ I'm Isaac, a passionate developer from Korea 🇰🇷. Currently navigating the 
 	<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/jSoup-51C8FA?style=for-the-badge&logo=Java&logoColor=white">
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
 	<img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white">
@@ -27,14 +26,11 @@ I'm Isaac, a passionate developer from Korea 🇰🇷. Currently navigating the 
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
  	<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 	<img src="https://img.shields.io/badge/SPSS-FF4500?style=for-the-badge&logo=IBM&logoColor=white">
-	<br>
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 	<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 	<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-	<br>
-	<!-- Additional -->
 </div>
 
 <!--
