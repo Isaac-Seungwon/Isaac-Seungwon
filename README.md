@@ -45,9 +45,11 @@ I'm Isaac, a passionate developer from Korea 🇰🇷.
 
 </div>
 
+<!--
 ## License
 - MetaCode Machine Learning BEGINNER
 - MetaCode Python BEGINNER
+-->
 
 ## Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isaac-christian.tistory.com/)](https://isaac-christian.tistory.com/)
