@@ -1,4 +1,4 @@
-# 안녕하세요!🔥
+# 안녕하시오..
 
 I'm Isaac, a passionate developer from Korea 🇰🇷.
 
