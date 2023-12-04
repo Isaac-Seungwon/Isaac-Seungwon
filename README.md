@@ -1,5 +1,4 @@
 # 안녕하세요👋
-디자인 해보려고 했는데 어렵네요.
 I'm Isaac, a passionate developer from Korea 🇰🇷.
 
 ## Languages and Tools
