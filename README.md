@@ -1,9 +1,13 @@
 <h3 align="center">안녕하세요👋</h3>
 <p align="center">빅데이터 경영학을 전공한 풀 스택 개발자 이승원입니다.<br>I'm Isaac, a passionate developer from Korea 🇰🇷.</p>
+
 <br>
+
 <h3 align="center">✒ Blog ✒</h3>
-<p align="center"><a href="https://isaac-christian.tistory.com/" target="_blank">https://isaac-christian.tistory.com/</a></p>
+<p align="center">https://isaac-christian.tistory.com/</p>
+
 <br>
+
 <h3 align="center">🛠 Languages and Tools 🛠</h3>
 <div align="center">
 	<!-- Programming Languages -->
@@ -33,7 +37,9 @@
 	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 </div>
+
 <br>
+
 <!--
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -51,7 +57,9 @@
 - MetaCode Machine Learning BEGINNER
 - MetaCode Python BEGINNER
 -->
+
 <br>
+
 <h3 align="center">🎇 Contacts 🎇 </h3>
 <div align = center>
 
@@ -62,8 +70,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsaac-Seungwon&count_bg=%23162457&title_bg=%23121517&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
-<br>
 
+<br>
 
 <!--
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
