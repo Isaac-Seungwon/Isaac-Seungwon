@@ -27,7 +27,6 @@
 	<img src="https://img.shields.io/badge/DBeaver-CC6699?style=flat-square&logo=DBeaver&logoColor=white">
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
  	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-	<img src="https://img.shields.io/badge/SPSS-FF4500?style=flat-square&logo=IBM&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 	<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
 	<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
@@ -77,6 +76,8 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=55&section=header&text=Seungwon's%20Github!&fontSize=30" />	
 </div>
+
+<img src="https://img.shields.io/badge/SPSS-FF4500?style=flat-square&logo=IBM&logoColor=white">
 
 - Korea Digital Media High School Department of Digital Contents 14th
 - Gangseo University Department of Bigdata Management
