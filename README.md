@@ -2,7 +2,7 @@
 <p align="center">빅데이터 경영학을 전공한 풀 스택 개발자 이승원입니다.<br>I'm Isaac, a passionate developer from Korea 🇰🇷.</p>
 <br>
 <h3 align="center">✒ Blog ✒</h3>
-<p align="center">https://isaac-christian.tistory.com/</p>
+<p align="center"><a href="https://isaac-christian.tistory.com/" target="_blank">https://isaac-christian.tistory.com/</a></p>
 <br>
 <h3 align="center">🛠 Languages and Tools 🛠</h3>
 <div align="center">
