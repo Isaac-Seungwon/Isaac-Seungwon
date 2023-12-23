@@ -4,7 +4,7 @@
 <br>
 
 <h3 align="center">✒ Blog ✒</h3>
-<p align="center">https://isaac-christian.tistory.com/</p>
+<p align="center">https://isaac-christian.tistory.com/<br>https://isaac-seungwon.github.io/portfolio/</p>
 
 <br>
 
