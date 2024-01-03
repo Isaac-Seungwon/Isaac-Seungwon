@@ -34,12 +34,12 @@ I'm Isaac, a passionate developer from Korea 🇰🇷.</p>
  	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 	<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
-	<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 	<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white">
+	<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SourceTree-005571?style=flat-square&logo=SourceTree&logoColor=white">
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white">
 </div>
