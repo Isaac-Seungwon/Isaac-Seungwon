@@ -6,7 +6,7 @@ I'm Isaac, a passionate developer from Korea 🇰🇷.</p>
 <br>
 
 <h3 align="center">✒ Blog and Portfolio ✒</h3>
-<p align="center">https://isaac-christian.tistory.com/<br>https://isaac-seungwon.github.io/portfolio/</p>
+<p align="center">https://isaac-christian.tistory.com<br>https://isaac-seungwon.github.io/portfolio</p>
 
 <br>
 
