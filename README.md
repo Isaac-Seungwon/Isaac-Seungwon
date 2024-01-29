@@ -1,7 +1,6 @@
 <h3 align="center">안녕하세요👋</h3>
 <p align="center">빅데이터 경영학을 전공한 백엔드 개발자 이승원입니다.
-<br>
-I'm Isaac, a passionate developer from Korea 🇰🇷.</p>
+<br>I'm Isaac, a passionate developer from Korea 🇰🇷.</p>
 
 <br>
 
