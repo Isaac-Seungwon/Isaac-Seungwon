@@ -37,8 +37,8 @@
 	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-	<img src="https://img.shields.io/badge/WSL-0a97f5?style=flat-square&logo=linux&logoColor=white">
-	<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=white">
+	<img src="https://img.shields.io/badge/WSL-0a97f5?style=flat-square&logo=windows&logoColor=white">
+	<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
 	<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white">
