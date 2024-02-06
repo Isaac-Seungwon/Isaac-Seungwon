@@ -68,6 +68,33 @@
 
 <br>
 
+<h3 align="center">👾 Baekjoon Online Judge 👾</h3>
+<div align=center>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaac_christian)](https://solved.ac/isaac_christian/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=isaac_christian&theme=warm)
+
+</div>
+
+<br>
+
+
+<h3 align="center">📂 GitHub Repository</h3>
+<div align=center>
+
+|Repository|outline|Tech|
+|:------:|:---:|:---:|
+|[atlan-bank](https://github.com/Isaac-Seungwon/atlan-bank)|인터넷 은행|Spring Boot|
+|[dd-land](https://github.com/Isaac-Seungwon/dd-land.git)|놀이동산 ver.2|Spring, AWS|
+|[dd-studio](https://github.com/htj7425/opensource_project)|놀이동산 ver.1|Servlet/JSP|
+|[education-center-management-system](https://github.com/Isaac-Seungwon/education-center-management-system)|교육센터 관리시스템|Oracle, SQL|
+|[text-mining-analysis-of-bible-psalms](https://github.com/Isaac-Seungwon/text-mining-analysis-of-bible-psalms)|성경 시편 Psalm 텍스트 마이닝 분석|R, Selenium|
+|[gangseo-01-bus-usage-satisfaction-analysis](https://github.com/Isaac-Seungwon/gangseo-01-bus-usage-satisfaction-analysis)|강서01 버스 이용 만족도 분석|R|
+
+</div>       
+
+<br>
+
 <h3 align="center">🎇 Contacts 🎇 </h3>
 <div align = center>
 
@@ -78,8 +105,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsaac-Seungwon&count_bg=%23162457&title_bg=%23121517&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
-
-<br>
 
 <!--
 
