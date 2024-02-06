@@ -91,6 +91,7 @@
 |[education-center-management-system](https://github.com/Isaac-Seungwon/education-center-management-system)|교육센터 관리시스템|Oracle, SQL|
 |[text-mining-analysis-of-bible-psalms](https://github.com/Isaac-Seungwon/text-mining-analysis-of-bible-psalms)|성경 시편 텍스트 마이닝 분석|R, Selenium|
 |[gangseo-01-bus-usage-satisfaction-analysis](https://github.com/Isaac-Seungwon/gangseo-01-bus-usage-satisfaction-analysis)|강서01 버스 이용 만족도 분석|R|
+|[gwangjin-parking-analysis](https://github.com/Isaac-Seungwon/gwangjin-parking-analysis)|광진구 주차 문제 발생 원인 분석|Python|
 
 </div>
 
