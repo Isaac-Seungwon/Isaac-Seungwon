@@ -83,13 +83,13 @@
 <h3 align="center">📂 GitHub Repository</h3>
 <div align=center>
 
-|Repository|outline|Tech|
+|Repository|Outline|Tech|
 |:------:|:---:|:---:|
 |[atlan-bank](https://github.com/Isaac-Seungwon/atlan-bank)|인터넷 은행|Spring Boot|
 |[dd-land](https://github.com/Isaac-Seungwon/dd-land.git)|놀이동산 ver.2|Spring, AWS|
 |[dd-studio](https://github.com/Isaac-Seungwon/dd-studio)|놀이동산 ver.1|Servlet/JSP|
 |[education-center-management-system](https://github.com/Isaac-Seungwon/education-center-management-system)|교육센터 관리시스템|Oracle, SQL|
-|[text-mining-analysis-of-bible-psalms](https://github.com/Isaac-Seungwon/text-mining-analysis-of-bible-psalms)|성경 시편 Psalm 텍스트 마이닝 분석|R, Selenium|
+|[text-mining-analysis-of-bible-psalms](https://github.com/Isaac-Seungwon/text-mining-analysis-of-bible-psalms)|성경 시편 텍스트 마이닝 분석|R, Selenium|
 |[gangseo-01-bus-usage-satisfaction-analysis](https://github.com/Isaac-Seungwon/gangseo-01-bus-usage-satisfaction-analysis)|강서01 버스 이용 만족도 분석|R|
 
 </div>
