@@ -92,7 +92,7 @@
 |[text-mining-analysis-of-bible-psalms](https://github.com/Isaac-Seungwon/text-mining-analysis-of-bible-psalms)|성경 시편 Psalm 텍스트 마이닝 분석|R, Selenium|
 |[gangseo-01-bus-usage-satisfaction-analysis](https://github.com/Isaac-Seungwon/gangseo-01-bus-usage-satisfaction-analysis)|강서01 버스 이용 만족도 분석|R|
 
-</div>       
+</div>
 
 <br>
 
