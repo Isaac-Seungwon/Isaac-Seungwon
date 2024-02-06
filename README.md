@@ -68,6 +68,7 @@
 
 <br>
 
+<!--
 <h3 align="center">👾 Baekjoon Online Judge 👾</h3>
 <div align=center>
 
@@ -77,7 +78,7 @@
 </div>
 
 <br>
-
+-->
 
 <h3 align="center">📂 GitHub Repository</h3>
 <div align=center>
