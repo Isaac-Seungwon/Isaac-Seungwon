@@ -96,18 +96,19 @@
 
 <br>
 
-<h3 align="center">🎇 Contacts 🎇 </h3>
 <div align = center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isaac-christian.tistory.com/)](https://isaac-christian.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhzk33@gmail.com)](mailto:zhzk33@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zhzkdkrak@naver.com)](mailto:zhzkdkrak@naver.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsaac-Seungwon&count_bg=%23162457&title_bg=%23121517&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
 
 <!--
+
+<h3 align="center">🎇 Contact 🎇</h3>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isaac-christian.tistory.com/)](https://isaac-christian.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhzk33@gmail.com)](mailto:zhzk33@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zhzkdkrak@naver.com)](mailto:zhzkdkrak@naver.com)
 
 **Isaac-Seungwon/Isaac-Seungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
