@@ -57,8 +57,13 @@
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align = center>
-	
+
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&show_icons=true&theme=swift&include_all_commits=true)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=swift&layout=compact)
+
+<!--
 [![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&theme=swift&show_icons=true)]() ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=swift&layout=compact)
+-->
 
 </div>
 
