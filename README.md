@@ -6,7 +6,7 @@
 <br>
 
 <!-- =======Blog & Portfolio Links =======-->
-<h3 align="center">✒ Blog & Portfolio ✒</h3>
+<h3 align="center">Blog & Portfolio</h3>
 <p align="center">
   <a href="https://isaac-christian.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-Blog-1C1C1C?style=for-the-badge&logo=blogger&logoColor=white" />
@@ -16,18 +16,17 @@
   </a>
 </p>
 
-
 <br>
 
 <!-- =======Tech Stack Icons =======-->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,react,nodejs,spring,python,tailwind,mysql,postgres,redis,docker,gcp,aws,figma,git,vscode&perline=8" />
 </p>
 
 <!-- =======Full Tech Stack Details =======-->
 <details>
-  <summary align="center"><strong>🔍 See the Full Stack in Detail</strong></summary>
+  <summary align="center"><strong>View Full Stack in Detail</strong></summary>
   <br>
 
   <p align="center">
@@ -85,7 +84,7 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Stats 📊</h3>
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&theme=swift&show_icons=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=swift&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ev-station-analysis,gwangjin-parking-analysis,education-center-management-system" />
