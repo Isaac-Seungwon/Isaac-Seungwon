@@ -87,8 +87,8 @@
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&theme=swift&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=swift&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isaac-Seungwon&theme=swift&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=swift&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ev-station-analysis,gwangjin-parking-analysis,education-center-management-system" />
 </div>
 
 <!-- =======Visitor Counter =======-->
