@@ -9,10 +9,10 @@
 <h3 align="center">✒ Blog & Portfolio ✒</h3>
 <p align="center">
   <a href="https://isaac-christian.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-Blog-2E2E2E?style=for-the-badge&logo=blogger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tistory-Blog-1C1C1C?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a href="https://isaac-seungwon.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Site-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Site-2C6FDD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
