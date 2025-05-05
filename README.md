@@ -54,8 +54,8 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/SSIS-0078D4?style=flat-square&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/SSIS-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
   <!-- DevOps & Development Tools -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
