@@ -3,8 +3,6 @@
 <p align="center">빅데이터 경영학을 전공한 백엔드 개발자 이승원입니다.
 <br>I'm Isaac, a passionate developer from Korea 🇰🇷.</p>
 
-<br>
-
 <!-- =======Blog & Portfolio Links =======-->
 <h3 align="center">Blog & Portfolio</h3>
 <p align="center">
@@ -15,8 +13,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Site-2C6FDD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<br>
 
 <!-- =======Tech Stack Icons =======-->
 <h3 align="center">Tech Stack</h3>
@@ -81,8 +77,6 @@
 
   </p>
 </details>
-
-<br>
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
